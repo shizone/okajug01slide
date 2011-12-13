@@ -1,1 +1,17 @@
-/* custom styles */
+.strong {
+    color: #d04040;
+}
+
+.weak {
+    color: #c0c0c0;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-image: url("../img/jenkins.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
