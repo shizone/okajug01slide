@@ -37,22 +37,17 @@
 # <div class="center">このwarを</div>
 # <div class="center">デプロイしたのは</div>
 # <div class="center">誰だあっ！！</div>
-## <div class="center">〜至高のCI Jenkins〜</div>
+### <div class="center">〜至高のCI <del><span class="weak">海原雄山</span></del>Jenkins〜</div>
 
 !SLIDE
 
 # About me
 
 ![pic](img/me.png "pics")
-
 Yuuki <span class="strong">"Razon"</span> Sumida
-
-<br/>
 
 * [#tkscala](https://twitter.com/#!/search/%23tkscala) 言いだしっぺ
 * [#okajug](https://twitter.com/#!/search/%23okajug) 幹事長
-
-<br/>
 
 ### <http://about.me/shizone>
 

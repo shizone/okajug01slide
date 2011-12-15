@@ -15,3 +15,7 @@ body {
     background-repeat: no-repeat;
     background-position: right bottom;
 }
+
+h1 {
+    color: #d04040;
+}

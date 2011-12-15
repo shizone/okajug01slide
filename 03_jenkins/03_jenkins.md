@@ -25,7 +25,24 @@
 2. 公式からインストーラを落としてくる
 3. 公式からバイナリ（war）を落としてくる
     * winstoneでの単体起動
-    * GlassFish/Tomcat/Jettyなどにデプロイ
+    * JavaEEコンテナ/サーブレットコンテナなどにデプロイ
+
+!SLIDE
+
+# Jenkinsを使う
+
+!SLIDE
+
+# Jenkinsを使う
+
+<br/>
+
+## 痛Jenkins化
+
+Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです（ｷﾘｯ
+
+<center>
+![pic](img/jenkins2.png "pics")
 
 !SLIDE
 
@@ -43,7 +60,22 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 
 <br/>
 
+## 痛Jenkins化
+
+[Simple Theme Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin)
+
+任意のCSS/JSを差し込める
+
+!SLIDE
+
+# Jenkinsを使う
+
+<br/>
+
 ## ジョブを作る
+
+* Jenkinsで自動化する処理のかたまりを、「ジョブ」という単位で扱う
+* 複数のジョブを連携して動作させることも可能
 
 !SLIDE
 
@@ -95,6 +127,9 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 
 ## [Jenkins実践入門 ビルド・テスト・デプロイを自動化する技術](http://gihyo.jp/book/2011/978-4-7741-4891-5)
 
+<center>
+![pic](img/book1.jpg "pics")
+
 !SLIDE
 
 # さらにJenkinsを知る
@@ -103,6 +138,9 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 
 ## [Jenkinsではじめるビルド職人入門](https://gihyo.jp/dp/ebook/2011/978-4-7741-4952-3)
 * 11月までは無料でした…
+
+<center>
+![pic](img/book2.jpg "pics")
 
 !SLIDE
 
@@ -119,5 +157,12 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 
 <br/>
 
-## できるところから自動化しよう！
+* できるところから自動化しよう！
+    * まずはビルドの自動化から
+    * テストコードを書いているなら、様々なフィードバックにも挑戦してみよう！
 
+!SLIDE
+
+# さいごに
+
+## それでは皆様、よいCIライフを！
