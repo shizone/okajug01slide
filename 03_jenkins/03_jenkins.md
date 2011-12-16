@@ -92,7 +92,7 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 * sbt(simple-build-tool)
 * MS Build(!)
 * Rake
-
+変更に対するフィードバックを
 !SLIDE
 
 # Jenkinsを使う
@@ -118,6 +118,17 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
     * メール
     * IRC
     * Twitter
+
+!SLIDE
+
+# Jenkinsのジョブ構築例
+
+<br/>
+
+## [#tkscala](https://twitter.com/#!/search/%23tkscala) 公式サイトのサイト管理
+
+<center>
+![pic](img/tkscala_img.png "pics")
 
 !SLIDE
 
@@ -153,16 +164,27 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 
 !SLIDE
 
+# まとめ
+
+<br/>
+
+* CIで、変更に対してこまめな検証を
+* Jenkins使いましょう！
+
+!SLIDE
+
 # さいごに
 
 <br/>
 
 * できるところから自動化しよう！
     * まずはビルドの自動化から
-    * テストコードを書いているなら、様々なフィードバックにも挑戦してみよう！
+    * 様々なフィードバックにも挑戦してみよう！
 
 !SLIDE
 
 # さいごに
+
+<br/>
 
 ## それでは皆様、よいCIライフを！
