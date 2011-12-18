@@ -92,7 +92,7 @@ Jenkinsのおっさんを抹消してからが本当のJenkinsの始まりです
 * sbt(simple-build-tool)
 * MS Build(!)
 * Rake
-変更に対するフィードバックを
+
 !SLIDE
 
 # Jenkinsを使う
